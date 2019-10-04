@@ -6,10 +6,10 @@ const About = () => {
 
   return(
     <div>
-      <div style={{width:'40%', float:'left'}}>
+      <div style={{width:'30%', float:'left'}}>
         <Education />
       </div>
-      <div style={{width:'60%', float:'right'}}>
+      <div style={{width:'30%', float:'right'}}>
         <Experience />
       </div>
     </div>
